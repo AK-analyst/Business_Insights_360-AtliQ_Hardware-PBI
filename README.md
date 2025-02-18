@@ -16,51 +16,51 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ---
 
 ## 🔍 Power BI Techniques Implemented
-- **Data Modeling** *(established relationships across 15 tables)*
-- **DAX Measures & Calculated Columns** ![P&L Values]([https://github.com/AK-analyst/Business-Insights-360/blob/main/DAX1.png])
-- **Interactive Bookmarks & Page Navigation** *(via Buttons)* in !Page Navigation]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png]).
-- **Dynamic Titles** ![Tooltip Titles]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Dax2.png]).
+- **Data Modelling** *(established relationships across 15 tables)*
+- **DAX Measures & Calculated Columns** [P&L Values](https://github.com/AK-analyst/Business-Insights-360/blob/main/DAX1.png)
+- **Interactive Bookmarks & Page Navigation** *(via Buttons)* in [Page Navigation](https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png).
+- **Dynamic Titles** [Tooltip Titles](https://github.com/AK-analyst/Business-Insights-360/blob/main/Dax2.png).
 - **Conditional Formatting** *(for highlighting key metrics)*
 - **Publishing & Sharing Reports on Power BI Service**
 
 ---
 
-## 📌 Data Modeling
+## 📌 Data Modelling
 - Established **relationships across 15 tables**
-- Implemented **Snowflake Schema** for optimized data modeling
-- Ensured correct table relationships for **accurate analysis** ![Data Modeling]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Data%20Model.png])
+- Implemented **Snowflake Schema** for optimized data modelling
+- Ensured correct table relationships for **accurate analysis** [Data Modelling](https://github.com/AK-analyst/Business-Insights-360/blob/main/Data%20Model.png)
 
 
 ---
 
 ## 📊 Dashboard Overview
 ### 🏠 **Home Page** *(Centralized hub for seamless navigation)*
-![Home Page]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png])
+[Home Page](https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png)
 
 ### 💰 **Finance View** *(Analysis of key financial metrics)*
-![Finance Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Finance%20View.png])
+[Finance Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Finance%20View.png)
 
 ### 📈 **Sales View** *(Performance insights across different sales channels)*
-![Sales Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png])
+[Sales Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png)
 
 - **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)*
-![Dynamic Tooltip]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png])
+[Dynamic Tooltip](https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png)
 
 ### 📢 **Marketing View** *(Insights into strategic marketing decisions)*
-![Marketing Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png])
+[Marketing Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png)
 
 ### 📦 **Supply Chain View** *(Operations & supply chain optimization)*
-![Supply Chain Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png])
+[Supply Chain Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png)
 
 ### 🎯 **Executive View** *(Historical metrics tailored for executives)*
-![Executive Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png])
+[Executive Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)
 
-### 🎯 **Info Page** *(provides Information regaeding Refresh, Data base etc)*
-![Info Page]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png])
+### 🎯 **Info Page** *(provides Information regaeding Refresh, Data base etc)* 
+[Info Page](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)
 
 ---
 
-🔗 **[View Live Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZTZjM2IyYWYtYjhmNC00ODk4LWFiMDItNjI4MmNmMWIxYzE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e1abfce89bcd3a26b42c])**
+## [View Live Dashboard--](https://app.powerbi.com/view?r=eyJrIjoiZTZjM2IyYWYtYjhmNC00ODk4LWFiMDItNjI4MmNmMWIxYzE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e1abfce89bcd3a26b42c)
 
 ---
 ---
@@ -109,7 +109,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 
 ## 🎯 Key Enhancements to the Dashboard
 - **Support Pane** for user guidance & support
-- **Seamless Page Navigation** with interactive buttons in ![Menu Pane]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png])
+- **Seamless Page Navigation** with interactive buttons in [Menu Pane]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png])
 - **Data Refresh & Last Loaded Time Indicators**
 - **Colour Blind Friendly Palette** for inclusiveness
 
@@ -121,13 +121,10 @@ This *Business Insights 360* report provides comprehensive insights across vario
 - **Maintaining UI Consistency:** Aligning interactive elements like buttons and filters for a smooth user experience.
 - **Optimizing Visibility:** Using the show/hide feature to control the appearance of elements for better dashboard interaction.
 - **Reducing Clutter:** Removing unnecessary elements or hiding redundant layers to improve performance and readability.
-![Selection Layering]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png])
+[Selection Layering]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png])
 
 ---
 
 ## 🏆 Conclusion
 The *Business Insights 360* project delivers an intuitive, data-driven, user-friendly dashboard. It empowers AtliQ Hardware with **strategic decision-making capabilities** by providing deep insights into financial, sales, marketing, supply chain, product, and executive data.
-
-
-
 
