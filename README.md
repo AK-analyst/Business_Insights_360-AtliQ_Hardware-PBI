@@ -108,7 +108,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 
 ## 🎯 Key Enhancements to the Dashboard
 - **Support Pane** for user guidance & support
-- **Seamless Page Navigation** with interactive buttons in [Menu Pane]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png])
+- **Seamless Page Navigation** with interactive buttons in [Menu Pane](https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png)
 - **Data Refresh & Last Loaded Time Indicators**
 - **Colour Blind Friendly Palette** for inclusiveness
 
@@ -120,7 +120,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 - **Maintaining UI Consistency:** Aligning interactive elements like buttons and filters for a smooth user experience.
 - **Optimizing Visibility:** Using the show/hide feature to control the appearance of elements for better dashboard interaction.
 - **Reducing Clutter:** Removing unnecessary elements or hiding redundant layers to improve performance and readability.
-[Selection Layering]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png])
+[Selection Layering](https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png)
 
 ---
 
