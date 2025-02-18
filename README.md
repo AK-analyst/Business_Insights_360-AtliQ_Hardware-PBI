@@ -1,2 +1,133 @@
-# Business-Insights-360
+# 📊 Business Insights 360 - AtliQ Hardware
 **Business Insights 360** is a Power BI project featuring five comprehensive dashboards: **Finance View, Sales View, Marketing View, Supply Chain View, and Executive View**. These dashboards provide a holistic analysis of key business functions, enabling data-driven decision-making with interactive visualizations and insights. 🚀📊
+
+AtliQ Hardware, a fast-growing computer hardware company, faced challenges with outdated Excel-based analysis while handling large data volumes. To stay competitive, they required advanced analytics for data-driven decision-making and effective reporting.
+
+This *Business Insights 360* report provides comprehensive insights across various departments, including **Finance, Sales, Marketing, Supply Chain, Products, and the Executive division** at AtliQ Hardware. Below is a detailed breakdown of the project:
+
+---
+
+## 🚀 Tech Stack Utilized
+- **SQL**
+- **Power BI Desktop & Power BI Service**
+- **Excel**
+- **DAX Studio**
+- **Project Charter File**
+
+---
+
+## 🔍 Power BI Techniques Implemented
+- **Data Modeling** *(established relationships across 15 tables)*
+- **DAX Measures & Calculated Columns**
+- **Interactive Bookmarks & Page Navigation** *(via Buttons)*
+- **Dynamic Titles**
+- **Conditional Formatting** *(for highlighting key metrics)*
+- **Publishing & Sharing Reports on Power BI Service**
+
+---
+
+## 📌 Data Modeling
+- Established **relationships across 15 tables**
+- Implemented **Snowflake Schema** for optimized data modeling
+- Ensured correct table relationships for **accurate analysis**
+
+![Data Modeling]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Data%20Model.png])
+
+
+---
+
+## 📊 Dashboard Overview
+### 🏠 **Home Page** *(Centralized hub for seamless navigation)*
+![Home Page]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png])
+
+### 💰 **Finance View** *(Analysis of key financial metrics)*
+![Finance Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Finance%20View.png])
+
+### 📈 **Sales View** *(Performance insights across different sales channels)*
+![Sales Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png])
+
+- **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)*
+![Dynamic Tooltip]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png])
+
+### 📢 **Marketing View** *(Insights into strategic marketing decisions)*
+![Marketing Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png])
+
+### 📦 **Supply Chain View** *(Operations & supply chain optimization)*
+![Supply Chain Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png])
+
+### 🎯 **Executive View** *(Historical metrics tailored for executives)*
+![Executive Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png])
+
+
+
+🔗 **[View Live Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZTZjM2IyYWYtYjhmNC00ODk4LWFiMDItNjI4MmNmMWIxYzE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e1abfce89bcd3a26b42c])**
+
+---
+
+## 🔍 Business Insights
+### **Finance**
+- **Net Sales** grew exponentially, increasing **353.5% in FY 2022**
+- Expansion since 2021 resulted in a **14% loss**
+- Peak **sales period** is **October - December** every fiscal year
+
+### **Sales**
+- **Amazon & AtliQ Exclusive** are top customers, contributing **$496.9M** & **$361.1M**
+- **Best-selling product**: *AQ HOME All-in-1 Gen 2* (**$213M Net Sales in FY 2022**)
+
+### **Marketing**
+- **APAC region** has the **highest sales volume**
+- **Spain is the most profitable market** (*7.7% Net Profit margin*)
+- **Notebook segment & Business Laptop** category lead in Net Sales
+
+### **Supply Chain**
+- **80% Forecast Accuracy**, but **stockouts & excess inventory** impact profitability
+
+### **Executive Insights**
+- **Retailer Channel & PCs Division** drive the highest revenue
+- **Top 5 customers** contribute **38.7% revenue** (Amazon leads with **13.6%**)
+- **AtliQ’s Market Share** increased to **5.9% in FY 2022**
+- **North America** contributes **26% of total revenue**
+- **South Europe** shows the **highest market share growth (6.6%)**
+
+### **Products**
+- **Top revenue markets**: Australia, Canada, Italy, Spain, USA
+- **AQ 5000 Series Electron 8 5900X** has the **highest Gross Margin %**
+
+---
+
+## 📌 Recommendations
+* Optimize **operational expenses** to minimize losses during expansion
+* **Leverage festive seasons** with promotional campaigns to boost sales
+* Enhance **discount strategies** for better customer engagement
+* **Expand customer base in South Korea** *(no new customers in the last 4 years)*
+* Improve **inventory management** to reduce risks like stockouts & excess inventory
+* Conduct **LATAM region consumer surveys** for better market penetration
+* Involve **cross-functional teams** for improved demand forecasting
+
+---
+
+## 🎯 Key Enhancements to the Dashboard
+- **Information Pop-ups** for user guidance & support
+- **Seamless Page Navigation** with interactive buttons
+- **Data Refresh & Last Loaded Time Indicators**
+- **Color Blind Friendly Palette** for inclusiveness
+
+---
+
+## 📚Selection Layering
+- **Structuring Elements Properly:** Organizing visuals, text boxes, and shapes in the Selection Pane for a logical and structured design.
+- **Ensuring Bookmark Functionality:** Layering objects correctly to avoid overlapping issues and ensure seamless bookmark navigation.
+- **Maintaining UI Consistency:** Aligning interactive elements like buttons and filters for a smooth user experience.
+- **Optimizing Visibility:** Using the show/hide feature to control the appearance of elements for better dashboard interaction.
+- **Reducing Clutter:** Removing unnecessary elements or hiding redundant layers to improve performance and readability.
+![Selection Layering]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png])
+
+---
+
+## 🏆 Conclusion
+The *Business Insights 360* project delivers an intuitive, data-driven, user-friendly dashboard. It empowers AtliQ Hardware with **strategic decision-making capabilities** by providing deep insights into financial, sales, marketing, supply chain, product, and executive data.
+
+
+
+
+
