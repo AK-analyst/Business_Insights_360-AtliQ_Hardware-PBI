@@ -1,4 +1,4 @@
-# 📊 Business Insights 360 - AtliQ Hardware
+# 📊 Business Insights 360 - AtliQ Hardware - PBI
 
 AtliQ Hardware, a fast-growing computer hardware company, faced challenges with outdated Excel-based analysis while handling large data volumes. To stay competitive, they required advanced analytics for data-driven decision-making and effective reporting.
 
