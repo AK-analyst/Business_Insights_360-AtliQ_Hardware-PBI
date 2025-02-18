@@ -31,32 +31,32 @@ This *Business Insights 360* report provides comprehensive insights across vario
 - Implemented **Snowflake Schema** for optimized data modeling
 - Ensured correct table relationships for **accurate analysis**
 
-![Data Modeling]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Data%20Model.png])
+[Data Modeling]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Data%20Model.png])
 
 
 ---
 
 ## 📊 Dashboard Overview
 ### 🏠 **Home Page** *(Centralized hub for seamless navigation)*
-![Home Page]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png])
+[Home Page]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png])
 
 ### 💰 **Finance View** *(Analysis of key financial metrics)*
 ![Finance Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Finance%20View.png])
 
 ### 📈 **Sales View** *(Performance insights across different sales channels)*
-![Sales Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png])
+[Sales Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png])
 
 - **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)*
-![Dynamic Tooltip]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png])
+[Dynamic Tooltip]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png])
 
 ### 📢 **Marketing View** *(Insights into strategic marketing decisions)*
-![Marketing Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png])
+[Marketing Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png])
 
 ### 📦 **Supply Chain View** *(Operations & supply chain optimization)*
 ![Supply Chain Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png])
 
 ### 🎯 **Executive View** *(Historical metrics tailored for executives)*
-![Executive Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png])
+[Executive Dashboard]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png])
 
 
 
@@ -120,7 +120,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 - **Maintaining UI Consistency:** Aligning interactive elements like buttons and filters for a smooth user experience.
 - **Optimizing Visibility:** Using the show/hide feature to control the appearance of elements for better dashboard interaction.
 - **Reducing Clutter:** Removing unnecessary elements or hiding redundant layers to improve performance and readability.
-![Selection Layering]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png])
+[Selection Layering]([https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png])
 
 ---
 
