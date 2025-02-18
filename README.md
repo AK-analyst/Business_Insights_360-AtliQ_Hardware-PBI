@@ -6,6 +6,11 @@ This *Business Insights 360* report provides comprehensive insights across vario
 
 ---
 
+## [View Live Dashboard--](https://app.powerbi.com/view?r=eyJrIjoiZTZjM2IyYWYtYjhmNC00ODk4LWFiMDItNjI4MmNmMWIxYzE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e1abfce89bcd3a26b42c)
+
+---
+---
+
 ## 🚀 Tech Stack Utilized
 - **SQL**
 - **Power BI Desktop & Power BI Service**
@@ -29,7 +34,6 @@ This *Business Insights 360* report provides comprehensive insights across vario
 - Established **relationships across 15 tables**
 - Implemented **Snowflake Schema** for optimized data modelling
 - Ensured correct table relationships for **accurate analysis** [Data Modelling](https://github.com/AK-analyst/Business-Insights-360/blob/main/Data%20Model.png)
-
 
 ---
 
@@ -58,11 +62,6 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ### 🎯 **Info Page** *(provides Information regaeding Refresh, Data base etc)* 
 [Info Page](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)
 
----
-
-## [View Live Dashboard--](https://app.powerbi.com/view?r=eyJrIjoiZTZjM2IyYWYtYjhmNC00ODk4LWFiMDItNjI4MmNmMWIxYzE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e1abfce89bcd3a26b42c)
-
----
 ---
 
 ## 🔍 Business Insights
