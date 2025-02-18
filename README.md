@@ -44,7 +44,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 
 ### 📈 **Sales View** *(Performance insights across different sales channels)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png)</sub>
 
-- **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)* [**Image**](https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png)
+  -  -  **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)* [**Image**](https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png)
 
 ### 📢 **Marketing View** *(Insights into strategic marketing decisions)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png)</sub>
 
