@@ -23,7 +23,7 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ## 🔍 Power BI Techniques Implemented
 - **Data Modelling** *(established relationships across 15 tables)*
 - **DAX Measures & Calculated Columns** [P&L Values](https://github.com/AK-analyst/Business-Insights-360/blob/main/DAX1.png)
-- **Interactive Bookmarks & Page Navigation** *(via Buttons)* in [Page Navigation](https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png).
+- **Interactive Bookmarks & Page Navigation** *(via Buttons)* in [Menu Pane-Page Navigation](https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png)
 - **Dynamic Titles** [Tooltip Titles](https://github.com/AK-analyst/Business-Insights-360/blob/main/Dax2.png).
 - **Conditional Formatting** *(for highlighting key metrics)*
 - **Publishing & Sharing Reports on Power BI Service**
@@ -38,29 +38,21 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ---
 
 ## 📊 Dashboard Overview
-### 🏠 **Home Page** *(Centralized hub for seamless navigation)*
-[Home Page](https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png)
+### 🏠 **Home Page** *(Centralized hub for seamless navigation)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Home%20Page.png)</sub>
 
-### 💰 **Finance View** *(Analysis of key financial metrics)*
-[Finance Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Finance%20View.png)
+### 💰 **Finance View** *(Analysis of key financial metrics)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Finance%20View.png)</sub>
 
-### 📈 **Sales View** *(Performance insights across different sales channels)*
-[Sales Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png)
+### 📈 **Sales View** *(Performance insights across different sales channels)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Sales%20View.png)</sub>
 
-- **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)*
-[Dynamic Tooltip](https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png)
+- **Dynamic Tooltip** *(Shows NS and GM% for selection across the **Customer/Product Performance table**)* [**Image**](https://github.com/AK-analyst/Business-Insights-360/blob/main/Page%20as%20Tooltip.png)
 
-### 📢 **Marketing View** *(Insights into strategic marketing decisions)*
-[Marketing Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png)
+### 📢 **Marketing View** *(Insights into strategic marketing decisions)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Marketing%20View.png)</sub>
 
-### 📦 **Supply Chain View** *(Operations & supply chain optimization)*
-[Supply Chain Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png)
+### 📦 **Supply Chain View** *(Operations & supply chain optimization)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Supply%20Chain%20View.png)</sub>
 
-### 🎯 **Executive View** *(Historical metrics tailored for executives)*
-[Executive Dashboard](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)
+### 🎯 **Executive View** *(Historical metrics tailored for executives)* <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)</sub>
 
-### 🎯 **Info Page** *(provides Information regaeding Refresh, Data base etc)* 
-[Info Page](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)
+### 🎯 **Info Page** *(provides Information regaeding Refresh, Data base etc)*  <sub>[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Executive%20View.png)</sub>
 
 ---
 
@@ -107,20 +99,21 @@ This *Business Insights 360* report provides comprehensive insights across vario
 ---
 
 ## 🎯 Key Enhancements to the Dashboard
-- **Support Pane** for user guidance & support
+- **Support Pane** for user guidance & support [Support Pane](https://github.com/AK-analyst/Business_Insights_360-AtliQ_Hardware-PBI/blob/main/Support%20Pane.png)
 - **Seamless Page Navigation** with interactive buttons in [Menu Pane](https://github.com/AK-analyst/Business-Insights-360/blob/main/Menu%20Pane.png)
 - **Data Refresh & Last Loaded Time Indicators**
 - **Colour Blind Friendly Palette** for inclusiveness
 
 ---
 
-## 📚Selection Layering
+## 📚Selection Layering 
+[Image](https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png)
+
 - **Structuring Elements Properly:** Organizing visuals, text boxes, and shapes in the Selection Pane for a logical and structured design.
 - **Ensuring Bookmark Functionality:** Layering objects correctly to avoid overlapping issues and ensure seamless bookmark navigation.
 - **Maintaining UI Consistency:** Aligning interactive elements like buttons and filters for a smooth user experience.
 - **Optimizing Visibility:** Using the show/hide feature to control the appearance of elements for better dashboard interaction.
 - **Reducing Clutter:** Removing unnecessary elements or hiding redundant layers to improve performance and readability.
-[Selection Layering](https://github.com/AK-analyst/Business-Insights-360/blob/main/Selections%20Layering.png)
 
 ---
 
